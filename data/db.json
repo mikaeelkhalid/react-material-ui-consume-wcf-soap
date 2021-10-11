@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "name": "marshall ",
+      "accountNo": "113",
+      "activeData": "13123",
+      "customerRank": "8",
+      "customerType": "new",
+      "customerStatus": "active",
+      "gender": "v",
+      "DOB": "13",
+      "ntn": "1313",
+      "id": 3
+    },
+    {
+      "name": "mikaeel",
+      "accountNo": "313",
+      "activeData": "13123",
+      "customerRank": "4",
+      "customerType": "new",
+      "customerStatus": "ok",
+      "gender": "mmm",
+      "DOB": "1313",
+      "ntn": "2424",
+      "id": 4
+    }
+  ]
+}
